@@ -3,11 +3,13 @@
 <br />
 <br />
 <br />
-## Project Name: CoCoin App
+
+## Project Name: Mobile app name
 <br />
 <br />
 <br />
 <br />
+
 ## Environment to be tested:
 ```
 As of now we testing on production code changes, but we need to set up a pipeline for Staging & production
@@ -26,6 +28,7 @@ As of now we testing on production code changes, but we need to set up a pipelin
 <br />
 <br />
 <br />
+
 ## InScope :
 
 - Our approach will be to leverage the functional testing & Non functional types of testing :
@@ -41,6 +44,7 @@ As of now we testing on production code changes, but we need to set up a pipelin
 <br />
 <br />
 <br />
+
 ## Out of Scope : 
 - Documentation is not covered in this test or any unknown.
 
@@ -49,6 +53,7 @@ As of now we testing on production code changes, but we need to set up a pipelin
 <br />
 <br />
 <br />
+
 ## Browser / OS Coverage : 
 
 
@@ -59,6 +64,7 @@ As of now we testing on production code changes, but we need to set up a pipelin
 <br />
 <br />
 <br />
+
 ## Real Devices
 
 - Current statistics of IPhone :https://david-smith.org/iosversionstats/
@@ -68,16 +74,19 @@ As of now we testing on production code changes, but we need to set up a pipelin
 <br />
 <br />
 <br />
+
 ## Test Data:
 - <what are test data needed while execution of projects>
 <br />
 <br />
 <br />
 <br />
+ 
 ## Entrance Criteria
 - Dev handoff meeting has been completed, and acceptance test cases have passed
 - App launches without crashing
 - Make sure the code bases are independent. Either for back end or front end. Code changes should be backward compatible.
+
 <br />
 <br />
 <br />
