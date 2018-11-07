@@ -22,7 +22,7 @@ As of now we testing on production code changes, but we need to set up a pipelin
 ## Documents/References : 
 
 - Mind Map/Brain-Stroming **Ref- http://apps.testinsane.com/mindmaps/LONG-FUN-CUP-Mobile-App-Test-Coverage**
-
+<img src="LONG FUN CUP.png" width="900" />
 
 <br />
 <br />
