@@ -37,6 +37,7 @@ As of now we testing on production code changes, but we need to set up a pipelin
 <br />
 
 ## InScope :
+**Depends on projects**
 
 - Our approach will be to leverage the functional testing & Non functional types of testing :
 - Installation Testing – These tests consist of application installation and launching.[Not Important] Install in different devices.
@@ -52,8 +53,11 @@ As of now we testing on production code changes, but we need to set up a pipelin
 <br />
 <br />
 
-## Out of Scope : 
-- Documentation is not covered in this test or any unknown.
+## Out of Scope :
+**Depends on projects**
+- Documentation is not covered in this test 
+- unknown 
+- service level testing.
 
 
 <br />
