@@ -29,6 +29,13 @@ As of now we testing on production code changes, but we need to set up a pipelin
 <br />
 <br />
 
+## TimeLine And Responsibility 
+<img src="1.png" width="900" />
+<br />
+<br />
+<br />
+<br />
+
 ## InScope :
 
 - Our approach will be to leverage the functional testing & Non functional types of testing :
