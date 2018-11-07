@@ -67,7 +67,7 @@ As of now we testing on production code changes, but we need to set up a pipelin
 
 ## Browser / OS Coverage : 
 - List of browser/OS coverage with versions
-
+<img src="11.png" width="900" />
 
 
 
