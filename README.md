@@ -77,16 +77,6 @@ As of now we testing on production code changes, but we need to set up a pipelin
 <br />
 <br />
 
-## Real Devices
-
-- Current statistics of IPhone :https://david-smith.org/iosversionstats/
-- https://docs.google.com/document/d/1FzaGXg8sjK5kicvmBx5hfWi2W8d4PEdZG97hJTCQ2MM/edit# 
-
-<br />
-<br />
-<br />
-<br />
-
 ## Test Data:
 - what are test data needed while execution of projects
 <br />
