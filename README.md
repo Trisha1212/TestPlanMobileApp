@@ -62,6 +62,7 @@ As of now we testing on production code changes, but we need to set up a pipelin
 <br />
 
 ## Browser / OS Coverage : 
+- List of browser/OS coverage with versions
 
 
 
@@ -83,7 +84,7 @@ As of now we testing on production code changes, but we need to set up a pipelin
 <br />
 
 ## Test Data:
-- <what are test data needed while execution of projects>
+- what are test data needed while execution of projects
 <br />
 <br />
 <br />
