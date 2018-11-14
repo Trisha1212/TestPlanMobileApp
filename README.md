@@ -93,6 +93,52 @@ As of now we testing on production code changes, but we need to set up a pipelin
 <br />
 <br />
 <br />
- 
+
+## Risk assessment:
+ 1.	Product risk
+ 2.	Project risk
+ 3.	Business risk
+
+## Risk Mitigation:
+
+## Checklist for QA:
+ 1.	Test plan created for project
+ 2.	Test plan is shared with stake holder
+ 3.	Schedule a review and sign off from team
+ 4.	Make sure minimal acceptance criteria is present and executed
+ 5.	Share the daily test report
+ 6.	Bug triage with team
+ 7.	Create a set of regression with need to be automated
+ 8.	Review the regression cases
+ 9.	Schedule the knowledge transfer
+10.	Scheduled a bug bash
+
+#### Test stage /scope/entry condition/exit condition
+- Cover all test of all new feature
+- Performance test/ tracking
+- All the new feature BVT case pass
+- No active blocking bug
+- All new feature / project related test cases executed
+
+#### UAT
+- Cover the regression of round1
+- Cover the integration plan
+- Perf test
+- ZBB
+- Beta build ready
+- No active critical/major functional bug
+#### Final sign off:
+- Final regression test
+- Two days ZBB
+- No critical /major bugs found in 24 hours
+- One day code freeze
+#### QA Sign off
+- All testing is complete
+- No P1 P2 bugs are unresolved
+- Sanity passes with no failure
+
+## Mobile Non Function Test Scenario
+- https://github.com/Trisha1212/MobileTestIdea/edit/master/README.md
+
 ## Open Question
 
