@@ -100,9 +100,10 @@ As of now we testing on production code changes, but we need to set up a pipelin
  3.	Business risk
 
 ## Risk Mitigation:
-- If there is a missing role inside a project team, ask a question to project team to get the answer
-- KT should be done to avoid any circumtances.
-- Test plan , test report , test stratergy should be reviewed by stakeholder and incoperation of feedback prior execution
+•	If there is a missing role inside a project team, ask a question to project team to get the answer before execution
+•	KT should be done to avoid any circumstances.
+•	Test plan , test report , test strategy should be reviewed by stakeholder and incorporation of feedback prior execution
+
 
 <br />
 <br />
