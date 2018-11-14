@@ -1,4 +1,4 @@
-# Test Plan MobileApp
+# Test Plan MobileApp 
 <br />
 <br />
 <br />
@@ -24,6 +24,11 @@ As of now we testing on production code changes, but we need to set up a pipelin
 2.	Business requirement document
 3.	Functional/User requirement document
 4.	User story epic
+
+<br />
+<br />
+<br />
+<br />
 
 ## Mobile Test Idea Brain Strom
 
@@ -64,8 +69,6 @@ As of now we testing on production code changes, but we need to set up a pipelin
 - Documentation is not covered in this test 
 - unknown 
 - service level testing.
-
-
 <br />
 <br />
 <br />
@@ -74,10 +77,6 @@ As of now we testing on production code changes, but we need to set up a pipelin
 ## Browser / OS Coverage : 
 - List of browser/OS coverage with versions
 <img src="11.png" width="900" />
-
-
-
-
 <br />
 <br />
 <br />
