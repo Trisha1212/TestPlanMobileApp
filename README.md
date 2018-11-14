@@ -20,6 +20,12 @@ As of now we testing on production code changes, but we need to set up a pipelin
 <br />
 
 ## Documents/References : 
+1.	Technical requirement document
+2.	Business requirement document
+3.	Functional/User requirement document
+4.	User story epic
+
+## Mobile Test Idea Brain Strom
 
 - Mind Map/Brain-Stroming **Ref- http://apps.testinsane.com/mindmaps/LONG-FUN-CUP-Mobile-App-Test-Coverage**
 <img src="LONG FUN CUP.png" width="900" />
@@ -98,6 +104,11 @@ As of now we testing on production code changes, but we need to set up a pipelin
  1.	Product risk
  2.	Project risk
  3.	Business risk
+ 
+ <br />
+<br />
+<br />
+<br />
 
 ## Risk Mitigation:
 •	If there is a missing role inside a project team, ask a question to project team to get the answer before execution
