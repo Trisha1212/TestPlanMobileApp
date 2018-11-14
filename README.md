@@ -102,6 +102,11 @@ As of now we testing on production code changes, but we need to set up a pipelin
 ## Risk Mitigation:
 - If there is a missing role inside a project team, ask a question to project team to get the answer
 
+<br />
+<br />
+<br />
+<br />
+
 ## Checklist for QA:
  1.	Test plan created for project
  2.	Test plan is shared with stake holder
@@ -137,9 +142,18 @@ As of now we testing on production code changes, but we need to set up a pipelin
 - All testing is complete
 - No P1 P2 bugs are unresolved
 - Sanity passes with no failure
+<br />
+<br />
+<br />
+<br />
+
 
 ##  Test scenario for Non-Functional test:
 - https://github.com/Trisha1212/MobileTestIdea/edit/master/README.md
+<br />
+<br />
+<br />
+<br />
 
 ## Open Question
 
