@@ -137,7 +137,7 @@ As of now we testing on production code changes, but we need to set up a pipelin
 - No P1 P2 bugs are unresolved
 - Sanity passes with no failure
 
-## Mobile Non Function Test Scenario
+##  Non- Functional Test Scenario
 - https://github.com/Trisha1212/MobileTestIdea/edit/master/README.md
 
 ## Open Question
