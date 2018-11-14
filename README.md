@@ -100,6 +100,7 @@ As of now we testing on production code changes, but we need to set up a pipelin
  3.	Business risk
 
 ## Risk Mitigation:
+- If there is a missing role inside a project team, ask a question to project team to get the answer
 
 ## Checklist for QA:
  1.	Test plan created for project
